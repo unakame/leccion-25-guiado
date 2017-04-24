@@ -26,5 +26,9 @@ img{
 }
 
 label{
-  font-size: "Roboto";
+  font-family: "Roboto";
+}
+
+body{
+  background-color: #26c9a3;
 }
